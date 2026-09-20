@@ -1,4 +1,4 @@
-# Sprylo — Tech &amp; Gadgets Ecommerce HTML Template
+# Mannat Industries — Tech &amp; Gadgets Ecommerce 
 
 A free, production-ready HTML template for tech and electronics
 retailers, gadget marketplaces, audio/camera shops, and modern consumer
